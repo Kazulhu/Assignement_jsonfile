@@ -1,20 +1,17 @@
 {
-    "fruits": [
-      {
-        "name": "Apple",
-        "color": "Red",
-        "taste": "Sweet"
-      },
-      {
-        "name": "Banana",
-        "color": "Yellow",
-        "taste": "Sweet"
-      },
-      {
-        "name": "Lemon",
-        "color": "Yellow",
-        "taste": "Acid"
-      }
-    ]
+  "car1": {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023
+  },
+  "car2": {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2023
+  },
+  "car3": {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2023
   }
-  
+}
